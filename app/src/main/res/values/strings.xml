@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Task9_Views</string>
+    <string name="header_title">Fragments switcher</string>
+    <string name="fragment1">First fragment</string>
+    <string name="fragment2">Second fragment</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="first_fragment">First Fragment</string>
+    <string name="second_fragment">Second Fragment</string>
+</resources>
